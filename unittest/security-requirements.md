@@ -6,4 +6,4 @@
   nào có trong POLICY (fail-closed).
 - SR-3: Kết quả trả về của khoá cha không được chứa các trường con mà
   role không có quyền đọc.
-- SR-4 (mở rộng): Xử lý dữ liệu lồng sâu không gây crash.
+- SR-4: Xử lý dữ liệu lồng sâu không gây crash.
